@@ -70,7 +70,8 @@ I’m a **developer, reverse engineer, and code enthusiast** with a passion for 
 ## 📈 Current Projects  
 
 ### 🔹 **DiscordRPCWebsiteExtended**  
-**User Account Automation:** Automating user account processes for Weather.com using Selenium and Python.  
+**User Account Automation:Uses Discord's RPC api to make a Rich Presence for your browser
+How it works it uses node.js server and tampermonkey to communicate between the two for sending data about the websites you visit and relies that information back to discord's api.  
 
 ### 🔹 **Python (Color Coded Triggerbot)**  
 A **triggerbot coded in Python** using OpenCV to perform image recognition based on certain colors. It detects a target (color), snaps to it, and simulates firing. In most games, it simply replicates a left-click action.  
